@@ -1,4 +1,4 @@
-organization:
-  bank:
-    client-id: Xa1231adfsadf
-    client-secret: a123zxvasdfq432gl
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
